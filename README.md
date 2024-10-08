@@ -17,3 +17,4 @@ Bangkit / Dicoding Submission Android Pemula
 
 
 Apk file for Mobile **Testing Android only**
+https://github.com/ErlanggaDwiKoranto/First-Android-Project/blob/main/apk/debug/app-debug.apk
